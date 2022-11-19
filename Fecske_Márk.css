@@ -1,0 +1,31 @@
+.virag{
+    width: 6cm;
+    max-width: 25vh;
+    height: 13cm;
+    display: inline-block;
+    margin: 0.2cm;
+    border: 1px solid black;
+    border-radius: 20px;
+    position: relative;
+}
+img{
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+p{
+    text-align: justify;
+    margin: 5%;
+}
+button{
+    background-color: green;
+    color: white;
+    width: 4cm;
+}
+.button{
+    position: absolute;
+    right: 1cm;
+    bottom: 5px;
+}
